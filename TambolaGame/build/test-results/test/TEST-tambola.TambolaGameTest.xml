@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tambola.TambolaGameTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-02-13T18:11:46" hostname="DESKTOP-I8GPOBK" time="0.054">
+  <properties/>
+  <testcase name="testMultipleTicketsWinning()" classname="tambola.TambolaGameTest" time="0.042"/>
+  <testcase name="testWinningCondition()" classname="tambola.TambolaGameTest" time="0.001"/>
+  <testcase name="testGameFlow()" classname="tambola.TambolaGameTest" time="0.002"/>
+  <testcase name="testDrawNumber()" classname="tambola.TambolaGameTest" time="0.001"/>
+  <testcase name="testMarkNumber()" classname="tambola.TambolaGameTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
